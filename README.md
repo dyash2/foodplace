@@ -1,4 +1,4 @@
-# foodplace
+# FoodPlace
 
 A new Flutter project.
 
